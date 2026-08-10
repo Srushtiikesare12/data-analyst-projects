@@ -209,7 +209,7 @@ Additional tools and analytical techniques will be incorporated as the portfolio
 
 ## 📬 Connect
 
-**LinkedIn:** linkedin.com/in/srushti-kesare-0a68b2336
+**LinkedIn:** https://www.linkedin.com/in/srushti-kesare-0a68b2336/?skipRedirect=true
 
 **GitHub:** https://github.com/Srushtiikesare12
 
